@@ -1,6 +1,8 @@
-# AI Flashcard Generator
+# My CCNA Flashcard Study App
 
-This is a modern, responsive flashcard application built with React. It uses AI to automatically convert your raw notes into a structured, study-ready deck of flashcards.
+I created this project because I'm studying for my CCNA certification and needed a free, powerful way to create and study flashcards. This application is the result of that effort. It uses AI to automatically convert raw study notes into a structured, interactive deck of flashcards, making study sessions more efficient and effective.
+
+I hope it can help you on your learning journey as much as it's helping me on mine!
 
 ## Features
 
@@ -19,8 +21,8 @@ This is a modern, responsive flashcard application built with React. It uses AI 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
-    cd flashcard-app
+    git clone https://github.com/JamesBratton-Codes/FlashCards.git
+    cd FlashCards
     ```
 
 2.  **Install Dependencies:**
