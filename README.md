@@ -13,7 +13,7 @@ This is a modern, responsive flashcard application built with React. It uses AI 
 ## Prerequisites
 
 -   [Node.js](https://nodejs.org/) (which includes npm) installed on your system.
--   An API key from a GPT provider (e.g., OpenAI).
+-   An API key from a GPT provider. **Note:** Currently, the application is configured to use the OpenAI API (`gpt-3.5-turbo`). Support for other models can be added in the future.
 
 ## How to Run
 
